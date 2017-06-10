@@ -1,4 +1,4 @@
-package chapter1
+package part1
 /**
  * You can use assign a reference to higher order function
  * and pass it to another function call, because in Scala internally everything is an object

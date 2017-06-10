@@ -1,4 +1,4 @@
-package chapter1
+package part1
 /**
  * pass any condition as function
  * and getAllMatches function will return all elements which satisfies that condition

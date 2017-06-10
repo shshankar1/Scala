@@ -1,4 +1,4 @@
-package chapter1
+package part1
 /**
  * demo for higher order function,
  * function format is a higher order function because it accepts a function f:Int=>Int

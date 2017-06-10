@@ -1,4 +1,4 @@
-package chapter1
+package part1
 
 object FibonacciSeries {
   def main(args: Array[String]): Unit = {

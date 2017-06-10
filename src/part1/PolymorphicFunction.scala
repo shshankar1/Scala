@@ -1,4 +1,4 @@
-package chapter1
+package part1
 
 /**
  * Don't get confused with polymorphic word,

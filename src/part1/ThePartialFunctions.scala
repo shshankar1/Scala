@@ -1,4 +1,4 @@
-package chapter1
+package part1
 /**
  * For kind of requirement where we need to apply a function
  * only on a subset of input and return back a function

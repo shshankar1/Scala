@@ -1,4 +1,4 @@
-package chapter1
+package part1
 
 object AbsoluteValueCalculator {
   def main(agrs: Array[String]):Unit={
