@@ -18,7 +18,7 @@ This declaration mean that all implementation will reside in same file.
 
 Companion Objects:
 * Scala doesn't have static variable/method functionality. 
-* So language has provide the features of static using companion object. 
+* So language has provided the features of static using companion object. 
 * This is like single object per class and share same name as class.
 * We can use this object as factory to create class objects
 
