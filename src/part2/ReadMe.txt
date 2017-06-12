@@ -26,6 +26,7 @@ scala.collection.immutable.List:
 Scala implementation of immutable linked list where list ends with Nil 
 
 Please read the examples in below order:
+1. MultipleArgumentParameterList
 1. SingleLinkedList
 2. PatternMatching
 3. CompanionObjects
