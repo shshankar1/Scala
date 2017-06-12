@@ -2,9 +2,8 @@ package part1
 
 /**
  * Don't get confused with polymorphic word,
- * basically this is like java generics,
+ * this is like java generics,
  * Here Array initialization is done using companion object
- * of Array class which gives functionality of java static behavior 
  */
 
 object PolymorphicFunction {
