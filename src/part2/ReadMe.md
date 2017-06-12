@@ -1,4 +1,4 @@
-Case class:
+Benifits of case class:
 1. Gives a companion object 
 2. Since you have companion object with apply method access, you can use it as an factory method.
 3. You get equals and hashcode function which compares the structure
