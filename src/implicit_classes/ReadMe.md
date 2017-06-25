@@ -10,9 +10,9 @@ Now the imperative way to handle this could be write a function for the check an
 println(StrUtils.containsOneOf(text, "implicit","example"))
 ```
 This ends up code very clunky.
-<br/>
+<br/><br/>
 In second attempt I have written an implicit class which does the same functionality. 
-<br/>
+<br/><br/>
 So when you call this code looks more cleaner and it gives impression like containsOneOf is function of String only.
 ```
 println(text.containsOneOf("test", "coupon"))
