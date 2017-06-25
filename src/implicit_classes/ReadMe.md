@@ -1,4 +1,4 @@
-<b>Scala Implicit Classes:</b>
+<b>Scala Implicit Classes:</b><br/>
 Implicit classes in Scala doesn't add anything new which can't be achieved with existing API.
 <br/>
 It just help to get code more cleaner and once you start building up complicated expressions, this kind of syntax can really help.
