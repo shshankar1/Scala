@@ -9,14 +9,14 @@ Now the imperative way to handle this could be write a function for the check an
 ```
 println(StrUtils.containsOneOf(text, "implicit","example"))
 ```
-<br/>
 This ends up code very clunky.
 <br/>
-In second attempt I have written an implicit class which does the same functionality. So when you call this code looks more cleaner and it gives impression like containsOneOf is function of String only.
+In second attempt I have written an implicit class which does the same functionality. 
 <br/>
+So when you call this code looks more cleaner and it gives impression like containsOneOf is function of String only.
 ```
 println(text.containsOneOf("test", "coupon"))
 ```
-
+<br/>
 Note: Please take care of import required.
 
