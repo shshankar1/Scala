@@ -13,7 +13,9 @@ This ends up code very clunky.
 <br/><br/>
 In second attempt I have written an implicit class which does the same functionality. 
 <br/><br/>
-So when you call this code looks more cleaner and it gives impression like containsOneOf is function of String only.
+So when you call the same function, code looks more cleaner and it gives impression like containsOneOf is function of String only.
+<br/>
+Once you start building up complicated expressions, this kind of syntax can really help.
 ```
 println(text.containsOneOf("test", "coupon"))
 ```
