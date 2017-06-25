@@ -1,7 +1,8 @@
+<b>Scala Implicit Classes:</b>
 Implicit classes in Scala doesn't add anything new which can't be achieved with existing API.
-
+<br/>
 It just help to get code more cleaner and once you start building up complicated expressions, this kind of syntax can really help.
-
+</br>
 In given example I am trying to match any of given input string in given text and if yes return true.
 
 Now the imperative way to handle this could be write a function for the check and pass everything in input params.
